@@ -7,6 +7,8 @@ Video:</br>
 ### Panzer Dragoon Remake:</br>
 Video:</br>
 [![Watch Video:](https://img.youtube.com/vi/tIqKJ3-vjHU/0.jpg)](https://www.youtube.com/watch?v=tIqKJ3-vjHU)
+</br>
+Download: [https://github.com/Astienth/Panzer_Dragoon_Remake_VR_bHaptics_Provolver](https://github.com/Astienth/Panzer_Dragoon_Remake_VR_bHaptics_Provolver)
 
 ### Sonic Project 06:</br>
 Video:</br>
