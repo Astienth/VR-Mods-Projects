@@ -56,7 +56,7 @@ Download: https://discord.com/channels/1001138422972432597/1262749418981949483
 Video:</br>
 [![Watch Video:](https://img.youtube.com/vi/8Xj_V57cFiY/0.jpg)](https://www.youtube.com/watch?v=8Xj_V57cFiY)
 </br>
-Download: Game is not even out yet !!
+Download: Game is not out yet but can't wait for it !!
 
 ### Hollow knight VR Enhanced:</br>
 Video:</br>
