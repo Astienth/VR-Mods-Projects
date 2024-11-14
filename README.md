@@ -10,7 +10,7 @@ Download: Coming soon !!
 Video:</br>
 [![Watch Video:](https://img.youtube.com/vi/tIqKJ3-vjHU/0.jpg)](https://www.youtube.com/watch?v=tIqKJ3-vjHU)
 </br>
-Download: [https://github.com/Astienth/Panzer_Dragoon_Remake_VR_bHaptics_Provolver](https://github.com/Astienth/Panzer_Dragoon_Remake_VR_bHaptics_Provolver)
+Download: [https://discord.com/channels/1001138422972432597/1306466762770088078](https://discord.com/channels/1001138422972432597/1306466762770088078)
 
 ### Sonic Project 06:</br>
 Video:</br>
@@ -28,7 +28,7 @@ Download: Coming soon !!
 Video:</br>
 [![Watch Video:](https://img.youtube.com/vi/5Q13RYYmCfg/0.jpg)](https://www.youtube.com/watch?v=5Q13RYYmCfg)
 </br>
-Download: [https://github.com/Astienth/DriftWood_VR_bHaptics](https://github.com/Astienth/DriftWood_VR_bHaptics)
+Download: [https://discord.com/channels/1001138422972432597/1290671667948818432](https://discord.com/channels/1001138422972432597/1290671667948818432)
 
 ### Tinykin:</br>
 <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1599020/header.jpg"/>
