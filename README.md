@@ -1,5 +1,10 @@
 # VR-Mods-Projects
 
+### !! To download the mods, please join this discord first : https://discord.gg/G8zZBTGuhP
+### Then click on the corresponding link below
+
+## Available mods:
+
 ### Cloudpunk:</br>
 Video:</br>
 [![Watch Video:](https://img.youtube.com/vi/aW_UTxKZjRs/0.jpg)](https://www.youtube.com/watch?v=aW_UTxKZjRs)
@@ -16,7 +21,7 @@ Download: [https://discord.com/channels/1001138422972432597/1306466762770088078]
 Video:</br>
 [![Watch Video:](https://img.youtube.com/vi/OTHkTsVUAXE/0.jpg)](https://www.youtube.com/watch?v=OTHkTsVUAXE)
 </br>
-Download: [https://gamebanana.com/mods/531733](https://gamebanana.com/mods/531733)
+Download: [https://discord.com/channels/1001138422972432597/1267088216456953907](https://discord.com/channels/1001138422972432597/1267088216456953907)
 
 ### Circuit Superstars:</br>
 Video:</br>
