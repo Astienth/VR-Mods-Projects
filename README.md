@@ -5,17 +5,17 @@
 
 ## Available mods:
 
-### Cloudpunk:</br>
-Video:</br>
-[![Watch Video:](https://img.youtube.com/vi/aW_UTxKZjRs/0.jpg)](https://www.youtube.com/watch?v=aW_UTxKZjRs)
-</br>
-Download: Coming soon !!
-
 ### Panzer Dragoon Remake:</br>
 Video:</br>
 [![Watch Video:](https://img.youtube.com/vi/tIqKJ3-vjHU/0.jpg)](https://www.youtube.com/watch?v=tIqKJ3-vjHU)
 </br>
 Download: [https://discord.com/channels/1001138422972432597/1306466762770088078](https://discord.com/channels/1001138422972432597/1306466762770088078)
+
+### Cloudpunk:</br>
+Video:</br>
+[![Watch Video:](https://img.youtube.com/vi/aW_UTxKZjRs/0.jpg)](https://www.youtube.com/watch?v=aW_UTxKZjRs)
+</br>
+Download: Coming soon !!
 
 ### Sonic Project 06:</br>
 Video:</br>
