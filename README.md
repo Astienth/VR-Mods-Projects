@@ -1,7 +1,7 @@
 # VR-Mods-Projects
 
 ### !! To download the mods, please join this discord first : https://discord.gg/G8zZBTGuhP
-### Then click on the corresponding link below
+### Then click on the corresponding link below or look into the channel "vr-mods"
 
 ## Available mods:
 
@@ -56,6 +56,10 @@ Video:</br>
 [![Watch Video:](https://img.youtube.com/vi/ZRt0-P-c4vU/0.jpg)](https://www.youtube.com/watch?v=ZRt0-P-c4vU)
 </br>
 Download: Coming soon !!
+
+### Art of Rally:</br>
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/550320/header.jpg"/>
+Download: https://discord.com/channels/1001138422972432597/1306503565698662462
 
 ### Dusk HD:</br>
 Video:</br>
