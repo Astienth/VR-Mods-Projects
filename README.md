@@ -49,7 +49,7 @@ Download: [https://discord.com/channels/1001138422972432597/1276919154678693908]
 Video:</br>
 [![Watch Video:](https://img.youtube.com/vi/aW_UTxKZjRs/0.jpg)](https://www.youtube.com/watch?v=aW_UTxKZjRs)
 </br>
-Download: Coming soon !!
+Download: https://discord.com/channels/1001138422972432597/1316294711316840539
 
 ### Circuit Superstars:</br>
 Video:</br>
