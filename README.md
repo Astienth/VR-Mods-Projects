@@ -1,7 +1,8 @@
 # VR-Mods-Projects
 
 ### !! To download the mods, please join this discord first : https://discord.gg/G8zZBTGuhP
-### Then click on the corresponding link below or look into the channel "vr-mods"
+### Read the discord's rules and react to get full access.
+### Then click on the corresponding link below or look into the channel "vr-mods".
 
 ## Available mods:
 
