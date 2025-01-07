@@ -6,6 +6,11 @@
 
 ## Available mods:
 
+### Mirage Feathers:</br>
+[![Watch Video:](https://img.youtube.com/vi/-Kt735De5WI/0.jpg)](https://www.youtube.com/watch?v=-Kt735De5WI)
+</br>
+Download: [https://discord.com/channels/1001138422972432597/1325853693530079232](https://discord.com/channels/1001138422972432597/1325853693530079232)
+
 ### Panzer Dragoon Remake:</br>
 Video:</br>
 [![Watch Video:](https://img.youtube.com/vi/tIqKJ3-vjHU/0.jpg)](https://www.youtube.com/watch?v=tIqKJ3-vjHU)
