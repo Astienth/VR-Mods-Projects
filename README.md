@@ -6,7 +6,14 @@
 
 ## Available mods:
 
+### Bomb Rush Cyberfunk:</br>
+Video:</br>
+[![Watch Video:](https://img.youtube.com/vi/Pll1WT237xk/0.jpg)](https://www.youtube.com/watch?v=Pll1WT237xk)
+</br>
+Download: Coming soon !!
+
 ### Mirage Feathers:</br>
+Video:</br>
 [![Watch Video:](https://img.youtube.com/vi/-Kt735De5WI/0.jpg)](https://www.youtube.com/watch?v=-Kt735De5WI)
 </br>
 Download: [https://discord.com/channels/1001138422972432597/1325853693530079232](https://discord.com/channels/1001138422972432597/1325853693530079232)
