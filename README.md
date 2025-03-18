@@ -74,7 +74,7 @@ Download: https://discord.com/channels/1001138422972432597/1316294711316840539
 Video:</br>
 [![Watch Video:](https://img.youtube.com/vi/ZRt0-P-c4vU/0.jpg)](https://www.youtube.com/watch?v=ZRt0-P-c4vU)
 </br>
-Download: Coming soon !!
+Download: https://discord.com/channels/1001138422972432597/1351470128751181855/1351470238092496896
 
 ### Art of Rally:</br>
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/550320/header.jpg"/>
