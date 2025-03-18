@@ -6,6 +6,12 @@
 
 ## Available mods:
 
+### Road Redemption:</br>
+Video:</br>
+[![Watch Video:](https://img.youtube.com/vi/1mc8WCVF9Yg/0.jpg)](https://youtu.be/1mc8WCVF9Yg)
+</br>
+Download: Coming soon !!
+
 ### Bomb Rush Cyberfunk:</br>
 Video:</br>
 [![Watch Video:](https://img.youtube.com/vi/Pll1WT237xk/0.jpg)](https://www.youtube.com/watch?v=Pll1WT237xk)
