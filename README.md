@@ -16,7 +16,7 @@ Download: Coming soon !!
 Video:</br>
 [![Watch Video:](https://img.youtube.com/vi/Pll1WT237xk/0.jpg)](https://www.youtube.com/watch?v=Pll1WT237xk)
 </br>
-Download: Coming soon !!
+Download: https://discord.com/channels/1001138422972432597/1351471416930861078/1351471526896996363
 
 ### Mirage Feathers:</br>
 Video:</br>
