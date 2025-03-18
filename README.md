@@ -10,7 +10,7 @@
 Video:</br>
 [![Watch Video:](https://img.youtube.com/vi/1mc8WCVF9Yg/0.jpg)](https://youtu.be/1mc8WCVF9Yg)
 </br>
-Download: Coming soon !!
+Download: https://discord.com/channels/1001138422972432597/1351472104641527840/1351472168852258890
 
 ### Bomb Rush Cyberfunk:</br>
 Video:</br>
