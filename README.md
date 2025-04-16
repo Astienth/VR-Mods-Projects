@@ -6,6 +6,12 @@
 
 ## Available mods:
 
+### Dino Trauma:</br>
+Video:</br>
+[![Watch Video:](https://img.youtube.com/vi/eqyCmdH77Lk/0.jpg)](https://youtu.be/eqyCmdH77Lk)
+</br>
+Download: https://discord.com/channels/1001138422972432597/1362075882042167377/1362075882042167377
+
 ### Sunrise GP:</br>
 Video:</br>
 [![Watch Video:](https://img.youtube.com/vi/yoUHwjvXzmM/0.jpg)](https://youtu.be/yoUHwjvXzmM)
