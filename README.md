@@ -6,6 +6,12 @@
 
 ## Available mods:
 
+### Sunrise GP:</br>
+Video:</br>
+[![Watch Video:](https://img.youtube.com/vi/yoUHwjvXzmM/0.jpg)](https://youtu.be/yoUHwjvXzmM)
+</br>
+Download: https://discord.com/channels/1001138422972432597/1362074365952528494/1362074365952528494
+
 ### Horizon Chase Turbo:</br>
 Video:</br>
 [![Watch Video:](https://img.youtube.com/vi/CccvfWRS8D4/0.jpg)](https://youtu.be/CccvfWRS8D4)
