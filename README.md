@@ -6,6 +6,12 @@
 
 ## Available mods:
 
+### Horizon Chase Turbo:</br>
+Video:</br>
+[![Watch Video:](https://img.youtube.com/vi/CccvfWRS8D4/0.jpg)](https://youtu.be/CccvfWRS8D4)
+</br>
+Download: https://discord.com/channels/1001138422972432597/1362072336827814020/1362072336827814020
+
 ### Road Redemption:</br>
 Video:</br>
 [![Watch Video:](https://img.youtube.com/vi/1mc8WCVF9Yg/0.jpg)](https://youtu.be/1mc8WCVF9Yg)
