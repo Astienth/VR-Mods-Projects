@@ -6,6 +6,12 @@
 
 ## Available mods:
 
+### PaperKlay:</br>
+Video:</br>
+[![Watch Video:](https://img.youtube.com/vi/oezn9ILmY4k/0.jpg)](https://www.youtube.com/watch?v=oezn9ILmY4k)
+</br>
+Download: https://discord.com/channels/1001138422972432597/1380447945215836261/1380447945215836261
+
 ### Dino Trauma:</br>
 Video:</br>
 [![Watch Video:](https://img.youtube.com/vi/eqyCmdH77Lk/0.jpg)](https://youtu.be/eqyCmdH77Lk)
