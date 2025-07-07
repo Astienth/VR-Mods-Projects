@@ -6,6 +6,18 @@
 
 ## Available mods:
 
+### The House of the Dead Remake:</br>
+Video:</br>
+[![Watch Video:](https://img.youtube.com/vi/jpSObIeCEwQ/0.jpg)](https://www.youtube.com/live/jpSObIeCEwQ?si=qOC91ZG6ztQWojSW&t=9345)
+</br>
+Download: https://discord.com/channels/1001138422972432597/1391730397418881067/1391730543074345061
+
+### Paranoia Place:</br>
+Video:</br>
+[![Watch Video:](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592290/a0f493927bc318cbcdd0612d38bde8b3d0c5db7a/header.jpg)](https://www.youtube.com/live/jpSObIeCEwQ?si=i0sWDFBtvJ8pwSrv&t=4047)
+</br>
+Download: https://discord.com/channels/1001138422972432597/1391728936039485450/1391729125991120988
+
 ### PaperKlay:</br>
 Video:</br>
 [![Watch Video:](https://img.youtube.com/vi/oezn9ILmY4k/0.jpg)](https://www.youtube.com/watch?v=oezn9ILmY4k)
