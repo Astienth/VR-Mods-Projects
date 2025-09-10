@@ -4,7 +4,11 @@
 ### Read the discord's rules and react to get full access.
 ### Then click on the corresponding link below or look into the channel "vr-mods".
 
-## Available mods:
+## Available VR mods:
+
+### Hollow Knight: Silksong:</br>
+<img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1030300/7983574d464e6559ac7e24275727f73a8bcca1f3/header.jpg"/>
+Download: https://discord.com/channels/1001138422972432597/1414940597579419679/1414940597579419679
 
 ### The House of the Dead Remake:</br>
 Video:</br>
@@ -23,6 +27,10 @@ Video:</br>
 [![Watch Video:](https://img.youtube.com/vi/oezn9ILmY4k/0.jpg)](https://www.youtube.com/watch?v=oezn9ILmY4k)
 </br>
 Download: https://discord.com/channels/1001138422972432597/1380447945215836261/1380447945215836261
+
+### Peak:</br>
+<img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3527290/47d49076d283d481c2057cfe5474294059c3264b/header_alt_assets_0.jpg"/>
+Download: https://discord.com/channels/1001138422972432597/1406236205024284672/1406236205024284672
 
 ### Dino Trauma:</br>
 Video:</br>
