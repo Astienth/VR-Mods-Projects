@@ -6,6 +6,18 @@
 
 ## Available VR mods:
 
+### AstroDogs:</br>
+<img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1301230/header.jpg"/>
+Download: https://discord.com/channels/1001138422972432597/1424110040935043132/1424110255121367213
+
+### Star Racer:</br>
+<img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2626120/header.jpg"/>
+Download: https://discord.com/channels/1001138422972432597/1424109526621360240/1424109638558679142
+
+### Life is strange - Before the storm Remastered:</br>
+<img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1265930/header.jpg"/>
+Download: https://discord.com/channels/1001138422972432597/1424109073795649536/1424109194679816192
+
 ### Hollow Knight: Silksong:</br>
 <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1030300/7983574d464e6559ac7e24275727f73a8bcca1f3/header.jpg"/>
 Download: https://discord.com/channels/1001138422972432597/1414940597579419679/1414940597579419679
