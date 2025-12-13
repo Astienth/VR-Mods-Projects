@@ -6,6 +6,10 @@
 
 ## Available VR mods:
 
+### Dusk HD:</br>
+<img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/519860/20283611e9d427c4bfb5c5d23772c988df74a147/header.jpg"/>
+Download: https://discord.com/channels/1001138422972432597/1449484957671227555/1449485032006750209
+
 ### Decimate Drive:</br>
 <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2427950/header.jpg"/>
 Download: https://discord.com/channels/1001138422972432597/1442488939050176583/1442488939050176583
