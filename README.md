@@ -52,7 +52,7 @@ Video:</br>
 </br>
 Download: https://discord.com/channels/1001138422972432597/1380447945215836261/1380447945215836261
 
-### Peak:</br>
+### Peak: # NOT COMPATIBLE ANYMORE - NOT WORKING WITH UPDATES PAST 1.44.a !! </br>
 <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3527290/47d49076d283d481c2057cfe5474294059c3264b/header_alt_assets_0.jpg"/>
 Download: https://discord.com/channels/1001138422972432597/1406236205024284672/1406236205024284672
 
