@@ -6,6 +6,10 @@
 
 ## Available VR mods:
 
+### Skate Story:</br>
+<img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1263240/fcd83e0b0fdddef3f4db4718fcd3a84f184dafe3/header.jpg"/>
+Download: https://discord.com/channels/1001138422972432597/1454427736327065655/1454427809203359774
+
 ### Dusk HD:</br>
 <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/519860/20283611e9d427c4bfb5c5d23772c988df74a147/header.jpg"/>
 Download: https://discord.com/channels/1001138422972432597/1449484957671227555/1449485032006750209
