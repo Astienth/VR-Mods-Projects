@@ -6,6 +6,10 @@
 
 ## Available VR mods:
 
+### StreetDogBMX:</br>
+<img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2707870/ff332284a4ebb8f3c6383d22a994d8ddaac948f6/header.jpg"/>
+Download: https://discord.com/channels/1001138422972432597/1481693413479944417/1481693413479944417
+
 ### Unmourned:</br>
 <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3528970/707494ff107ef67ebc29794cc10b851418b3068d/header.jpg"/>
 Download: https://discord.com/channels/1001138422972432597/1462781954570059990/1462781999839187008
