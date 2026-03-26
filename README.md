@@ -6,6 +6,10 @@
 
 ## Available VR mods:
 
+### Slyders:</br>
+<img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2607870/5ec2ab9a4b1c7b5c97a529c210b10c23717a06b9/header.jpg"/>
+Download: https://discord.com/channels/1001138422972432597/1486098905622904852/1486098978297614587
+
 ### StreetDogBMX:</br>
 <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2707870/ff332284a4ebb8f3c6383d22a994d8ddaac948f6/header.jpg"/>
 Download: https://discord.com/channels/1001138422972432597/1481693413479944417/1481693413479944417
