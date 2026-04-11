@@ -10,6 +10,10 @@
 <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2990060/header.jpg"/>
 Download: https://discord.com/channels/1001138422972432597/1490989987708014672/1490990041382518785
 
+### Super Polygon Grand Prix:</br>
+<img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2459860/header.jpg"/>
+Download: https://discord.com/channels/1001138422972432597/1492448070862901308/1492448247090778173
+
 ### Slyders:</br>
 <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2607870/5ec2ab9a4b1c7b5c97a529c210b10c23717a06b9/header.jpg"/>
 Download: https://discord.com/channels/1001138422972432597/1486098905622904852/1486098978297614587
