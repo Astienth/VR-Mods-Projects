@@ -6,6 +6,10 @@
 
 ## Available VR mods:
 
+### The House of The Dead 2 Remake:</br>
+<img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3376690/header.jpg"/>
+Download: https://discord.com/channels/1001138422972432597/1504155922572775554/1504155922572775554
+
 ### Moto Rush Reborn:</br>
 <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2990060/header.jpg"/>
 Download: https://discord.com/channels/1001138422972432597/1490989987708014672/1490990041382518785
