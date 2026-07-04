@@ -6,6 +6,10 @@
 
 ## Available VR mods:
 
+### New Star GP:</br>
+<img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2217580/header.jpg"/>
+Download: https://discord.com/channels/1001138422972432597/1522836877101629490/1522836922676940812
+
 ### Echo Generation 2:</br>
 <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1115990/e34f76ee2c95a7d5b2d082003ca2973aa01c9906/header.jpg"/>
 Download: https://discord.com/channels/1001138422972432597/1521547069804908565/1521547128973955296
