@@ -6,6 +6,10 @@
 
 ## Available VR mods:
 
+### Mouse P.I. for hire:</br>
+<img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2416450/298ff2fc3f6a700d022b8d3ec58047f2b426be03/header.jpg"/>
+Download: https://discord.com/channels/1001138422972432597/1523984295633490031/1523984342077014069
+
 ### New Star GP:</br>
 <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2217580/header.jpg"/>
 Download: https://discord.com/channels/1001138422972432597/1522836877101629490/1522836922676940812
